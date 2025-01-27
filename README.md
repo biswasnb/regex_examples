@@ -1,4 +1,4 @@
-# Regex Programs Assignment
+# Regex Programs 
 
 This repository contains solutions for tasks involving regular expressions in Python. These programs perform various text processing tasks such as replacing characters, counting occurrences, extracting valid data, and more.
 
